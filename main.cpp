@@ -71,5 +71,8 @@ int main() {
 
     std::cout << "The typical byte width of a long int is 4 bytes. While its typical range is -2147483648 to 2147483647.\n";
 
+    std::cout << "The typical byte width of an unsigned long int is 4 bytes. While its typical range is 0 to 4294967295.\n";
+
+
     return 0;
 }
