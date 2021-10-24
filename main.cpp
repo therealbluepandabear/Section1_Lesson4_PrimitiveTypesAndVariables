@@ -24,7 +24,12 @@ int main() {
 
     std::cout << "Void is a special type only used in special cases, for example with pointers and functions.\n";
 
+    std::cout << "C++ also provides modifiers that help modify the meaning of the t ype, for example:\n";
 
+    signed int x = 5;
+    unsigned int x_ = 5;
+    short int _x = 5;
+    long int xx = 5;
 
     return 0;
 }
