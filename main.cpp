@@ -31,5 +31,10 @@ int main() {
     short int _x = 5;
     long int xx = 5;
 
+    std::cout << "Signed and unsigned modifiers can only be used on integrals - not on floating point types.\n";
+
+    std::cout << "All types can be qualified with something called a qualifier, for example 'const', 'volatile', or 'static'.\n";
+
+
     return 0;
 }
