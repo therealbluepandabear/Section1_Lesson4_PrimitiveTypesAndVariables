@@ -69,5 +69,7 @@ int main() {
 
     std::cout << "The typical byte width of a signed short int is 2 bytes. While its typical range is -32769 to 32767.\n";
 
+    std::cout << "The typical byte width of a long int is 4 bytes. While its typical range is -2147483648 to 2147483647.\n";
+
     return 0;
 }
