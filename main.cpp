@@ -77,6 +77,7 @@ int main() {
 
     std::cout << "The typical byte width of a double is 8 bytes. While its typical range is +/- 1.7e +/- 308 (15 digits).\n";
 
+    std::cout << "The typical byte width of a long double is 8 bytes. While its typical range is +/- 1.7e +/- 308 (15 digits).\n";
 
 
 
