@@ -41,6 +41,7 @@ int main() {
 
     std::cout << "Boolean and char types require only a single byte in memory. While wchar_t and short require two bytes in memory.\n";
 
+    std::cout << "Wchar_t is a wide character used to represent characters that require more memory to present them than a regular char.\n";
 
 
     return 0;
