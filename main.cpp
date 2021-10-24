@@ -1,4 +1,8 @@
 #include <iostream>
+#include <vector>
+#include <cmath>
+
+bool IsPrime(int param);
 
 int main() {
     std::cout << "In this section we will look at the different types provided by the C++ type system.\n";
@@ -53,7 +57,9 @@ int main() {
 
     std::cout << "The typical byte width of an unsigned char is 1 byte. While its typical range is 0 to 255.\n";
 
-    std::cout << "The typical byte width of an int is 1 byte. While its typical range is -2147483648 to 2147483647.\n";
+    std::cout << "The typical byte width of an int is 4 bytes. While its typical range is -2147483648 to 2147483647.\n";
+
+    std::cout << "The typical byte width of an unsigned int is 4 bytes. While its typical range is 0 to 4294967295.\n";
 
     return 0;
 }
