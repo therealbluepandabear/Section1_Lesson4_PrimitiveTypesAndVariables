@@ -81,6 +81,7 @@ int main() {
 
     std::cout << "The typical byte width of wchar_t is 2 or 4 bytes. While its range is 1 wide character.\n";
 
+    std::cout << "You can include the <climits> header file which provides different types of macros which provide the minimum and maximum value of a type.\n";
 
     return 0;
 }
