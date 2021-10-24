@@ -83,5 +83,11 @@ int main() {
 
     std::cout << "You can include the <climits> header file which provides different types of macros which provide the minimum and maximum value of a type.\n";
 
+    std::cout << "We could also use <cfloat> (or float.h).\n";
+
+    std::cout << "To use a type, you must declare its variable. A variable is declared by specifying a type followed by a variable name e.g., int I or float x.\n";
+
+
+
     return 0;
 }
