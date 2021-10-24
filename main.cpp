@@ -49,5 +49,8 @@ int main() {
 
     std::cout << "The minimum and maximum value of a type can hold is called its range.\n";
 
+    std::cout << "The typical byte width of a char is 1 byte. While its typical range is -128 to 127.\n";
+
+
     return 0;
 }
