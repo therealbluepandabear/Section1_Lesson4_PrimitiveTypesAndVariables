@@ -75,6 +75,9 @@ int main() {
 
     std::cout << "The typical byte width of a float is 4 bytes. While its typical range is +/- 3.4e +/- 38 (7 digits).\n";
 
+    std::cout << "The typical byte width of a double is 8 bytes. While its typical range is +/- 1.7e +/- 308 (15 digits).\n";
+
+
 
 
     return 0;
