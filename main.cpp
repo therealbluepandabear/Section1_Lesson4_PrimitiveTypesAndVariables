@@ -99,6 +99,9 @@ int main() {
 
     int initializerVariable = 5;
 
+    std::cout << "Do note - some compilers may not allow read operations from uninitialized variables.\n";
+
+
 
 
     return 0;
