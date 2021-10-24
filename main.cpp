@@ -95,6 +95,10 @@ int main() {
 
     int y, z;
 
+    std::cout << "You may also initialize variables - the value that is used is called the initializer which is not always required.\n";
+
+    int initializerVariable = 5;
+
 
 
     return 0;
