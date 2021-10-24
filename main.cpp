@@ -39,6 +39,8 @@ int main() {
 
     std::cout << "On a 16-bit platform, an integer may require 16 bits of memory, while on a 32-bit platform it may require 32 bits of memory.\n";
 
+    std::cout << "Boolean and char types require only a single byte in memory. While wchar_t and short require two bytes in memory.\n";
+
 
 
     return 0;
