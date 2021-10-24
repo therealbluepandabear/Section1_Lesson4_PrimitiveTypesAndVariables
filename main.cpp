@@ -35,6 +35,11 @@ int main() {
 
     std::cout << "All types can be qualified with something called a qualifier, for example 'const', 'volatile', or 'static'.\n";
 
+    std::cout << "All the types occupy memory and can hold a range of values. The memory requirement of the type depends on the requirement of the platform.\n";
+
+    std::cout << "On a 16-bit platform, an integer may require 16 bits of memory, while on a 32-bit platform it may require 32 bits of memory.\n";
+
+
 
     return 0;
 }
