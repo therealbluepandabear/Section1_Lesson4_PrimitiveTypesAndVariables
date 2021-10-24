@@ -51,8 +51,9 @@ int main() {
 
     std::cout << "The typical byte width of a char is 1 byte. While its typical range is -128 to 127.\n";
 
-    std::cout << "The typical byte width of an unsigned char is 1 byte. While its typical byte width is 0 to 255.\n";
+    std::cout << "The typical byte width of an unsigned char is 1 byte. While its typical range is 0 to 255.\n";
 
+    std::cout << "The typical byte width of an int is 1 byte. While its typical range is -2147483648 to 2147483647.\n";
 
     return 0;
 }
