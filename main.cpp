@@ -47,6 +47,7 @@ int main() {
 
     std::cout << "Long long, double, and long double require eight bytes of memory.\n";
 
+    std::cout << "The minimum and maximum value of a type can hold is called its range.\n";
 
     return 0;
 }
