@@ -87,6 +87,14 @@ int main() {
 
     std::cout << "To use a type, you must declare its variable. A variable is declared by specifying a type followed by a variable name e.g., int I or float x.\n";
 
+    std::cout << "Variables are called identifiers.\n";
+
+    std::cout << "Multiple variables can be declared with the same type e.g., int a, b, c:\n";
+
+    int a, b, c;
+
+    int y, z;
+
 
 
     return 0;
