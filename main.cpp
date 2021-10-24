@@ -17,5 +17,10 @@ int main() {
     int integral_type_seven;
     long integral_type_eight;
 
+    std::cout << "Floating point types are represented through float and double\n";
+
+    float example_1 = 0.5f;
+    double example_2 = 0.5;
+
     return 0;
 }
