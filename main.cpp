@@ -65,5 +65,8 @@ int main() {
 
     std::cout << "The typical byte width of a short int is 2 bytes. While its typical range is -32769 to 32767.\n";
 
+    std::cout << "The typical byte width of an unsigned short int is 2 bytes. While its typical range is 0 to 65535.\n";
+
+
     return 0;
 }
