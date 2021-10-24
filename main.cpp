@@ -43,6 +43,8 @@ int main() {
 
     std::cout << "Wchar_t is a wide character used to represent characters that require more memory to present them than a regular char.\n";
 
+    std::cout << "Int, long, and float require four bytes of memory\n";
+
 
     return 0;
 }
