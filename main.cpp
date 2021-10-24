@@ -22,5 +22,9 @@ int main() {
     float example_1 = 0.5f;
     double example_2 = 0.5;
 
+    std::cout << "Void is a special type only used in special cases, for example with pointers and functions.\n";
+
+
+
     return 0;
 }
